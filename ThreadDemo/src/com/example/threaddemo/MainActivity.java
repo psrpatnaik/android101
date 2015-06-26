@@ -31,7 +31,7 @@ public class MainActivity extends Activity {
 				// TODO Auto-generated method stub
 
 				/*
-				 * Conventional Way of Creating Threads ,  NOT TO BE USED in Android.
+				 * Conventional Way of Creating Threads ,  NOT TO BE USED in Android
 				 new Thread(( new Runnable() {
 
 					@Override
