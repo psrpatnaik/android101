@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ThreadDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">RESULT OF THREAD</string>
+    <string name="button_name">STAR THREAD</string>
+
+</resources>

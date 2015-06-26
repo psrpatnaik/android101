@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SQLliteDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="student_name_label">Name</string>
+    <string name="student_rollno_label">Roll #</string>
+    <string name="student_insert_button">INSERT</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="student_display_label">DISPLAY</string>
+
+</resources>
